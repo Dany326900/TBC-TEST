@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6Da3C4dB636c82cb27Ef0e7f0E6cE124B777Ff38",
+  "SCAN_LINK": "https://polygonscan.com/token/0x6da3c4db636c82cb27ef0e7f0e6ce124b777ff38?a=0x2A257f93Eb1397D411dEB652aA095123F5685701",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cafe Racer",
+  "SYMBOL": "TBC",
+  "MAX_SUPPLY": 111,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 24,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/caferacertbc",
+  "SHOW_BACKGROUND": true
+}
